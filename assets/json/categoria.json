@@ -1,0 +1,320 @@
+{
+    "success": "true",
+    "pagination": {
+        "currentPage": 1,
+        "previousPageUrl": null,
+        "nextPageUrl": null,
+        "firstItem": 1,
+        "lastItem": 14
+    },
+    "data": [
+        {
+            "category_id": 22,
+            "top": 0,
+            "image": null,
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 0,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2024-05-27 08:23:45",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "Relógios Masculinos",
+                    "description": "Explore nossa variedade de relógios masculinos elegantes e funcionais, ideais para complementar qualquer visual. Encontre desde modelos esportivos até sofisticados, garantindo pontualidade e estilo em todas as ocasiões.",
+                    "meta_title": "Relógios Masculinos | Loja de Relojoaria e Joalheria | Marca X",
+                    "meta_description": "Descubra os melhores relógios masculinos na loja de relojoaria e joalheria Marca X. Modelos esportivos, elegantes e sofisticados para todos os estilos.",
+                    "meta_keyword": "-relógios-masculinos,-relojoaria-masculina,-relógios-elegantes."
+                }
+            ]
+        },
+        {
+            "category_id": 21,
+            "top": 1,
+            "image": "",
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 0,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2024-05-22 16:02:39",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "CATEGORIA TESTE",
+                    "description": "&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; style=&quot;&quot; color=&quot;#424242&quot;&gt;O rosto é uma das principais preocupações da estética, que com o passar do tempo começa a sofrer com a influência de fatores como: alimentação incorreta, variação hormonal, stress, incidência solar, poluição dentre outros.&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;Os tratamentos de estética facial são geralmente direcionados para promover o bem-estar, a recuperação da pele e a estética pessoal, porque o rosto é o cartão de visita de qualquer pessoa. Com a consulta facial é possível identificar qual o tipo de pele e o melhor tratamento para cada caso.&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;A clínica Probelle oferece aos seus clientes os melhores tratamentos faciais para linhas de expressão, flacidez, olheiras, manchas, cicatrizes e acnes como a Radiofrequência, fios, laserys, ultrassom, Preenchimento Facial, Peeling, Limpeza de pele, entre outros.&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;O paciente passa pela consulta facial onde o profissional analisa e indica o tratamento mais eficaz para o seu caso, cuidando da sua saúde, bem-estar e qualidade de vida.&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;Na Clínica Probelle você encontra tratamentos faciais para:&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;Rugas&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;Linhas de Expressão e rugas&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Olheiras&lt;\/span&gt;&lt;span style=&quot;font-size: 11pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;br&gt;&lt;\/span&gt;&lt;span style=&quot;font-size: 11pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;br&gt;&lt;\/span&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Cicatriz&lt;\/span&gt;&lt;\/font&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;Acne&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;Manchas&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;Flacidez&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;Papada&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: center;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;&lt;span style=&quot;font-size: 11pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;br&gt;&lt;\/span&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;PROCEDIMENTOS UTILIZADOS&lt;\/span&gt;&lt;\/font&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;&lt;span style=&quot;font-size: 11pt; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;br&gt;&lt;\/span&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;HIDRATAÇÃO FACIAL&lt;\/span&gt;&lt;\/font&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;LIMPEZA DE PELE PROFUNDA&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;PEELING DE CRISTAL&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;PEELING DE DIAMANTE&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;PEELING QUIMICO&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;RADIOFREQUÊNCIA FACIAL&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;RADIOFREQUÊNCIA MICROAGULHADA FRACIONADO FACIAL&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;REJUVENESCIMENTO COM ELETROLIFTING&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;REVITALIZAÇÃO FACIAL ANTIOXIDANTE COM MÁSCARA DE OURO&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;REVITALIZAÇÃO FACIAL COM ARGILA&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;REVITALIZAÇÃO FACIAL COM MÁSCARA DE FRUTAS VERMELHAS&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;REVITALIZAÇÃO FACIAL DE CHOCOLATE&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;REVITALIZAÇÃO FOTÔNICA FACIAL&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;DESPIGMENTAÇÃO DAS SOBRANCELHAS&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;HOLLYWOOD PEEL (PEELING DAS CELEBRIDADES)&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;LASER VÊNUS (LASER DE BAIXA POTÊNCIA)&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;LASER LAVIEEN&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;LASER FRACIONADO&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;LASER PARA ACNE ATIVA&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;LASER PARA MANCHAS (LUZ INTENSA PULSADA)&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;LASER PARA MANCHAS DE MELASMA PONTEIRA ACROMA&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;LASER TONING (FACIAL)&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;PREENCHIMENTO&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;HARMONIZAÇÃO FACIAL&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;JATO DE PLASMA&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;LIPO DE PAPADA&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;SKINBOOSTER&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;TRATAMENTO DE LINHAS DE EXPRESSÃO&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: center;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;&lt;span style=&quot;font-size: 11pt; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;br&gt;&lt;\/span&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;HIDRATAÇÃO FACIAL&lt;\/span&gt;&lt;\/font&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;Descrição:&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;A hidratação facial é um dos passos mais importantes na rotina de cuidados da pele. É ela que ajuda a equilibrar a quantidade de água certa no corpo e no tecido cutâneo, deixando a pele com uma aparência saudável e bonita.&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-left: 36pt;text-align: justify;margin-top:12pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Open Sans&quot; color=&quot;#424242&quot;&gt;A Hidratação facial é o tratamento perfeito para peles oleosas, ressecada e flácida, devolvendo a elasticidade e luminosidade da pele.&lt;\/font&gt;&lt;\/span&gt;&lt;\/p&gt;",
+                    "meta_title": "CATEGORIA TESTE",
+                    "meta_description": "",
+                    "meta_keyword": ""
+                }
+            ]
+        },
+        {
+            "category_id": 20,
+            "top": 1,
+            "image": "",
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 0,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2024-05-02 10:48:06",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "Manchas",
+                    "description": "&lt;p style=&quot;text-align: center; margin-bottom: 0.28cm;&quot;&gt; &lt;\/p&gt;&lt;p style=&quot;text-align: center; margin-bottom: 0.28cm;&quot;&gt;&lt;a href=&quot;https:\/\/probelle.irroba.com.br\/estetica&quot; target=&quot;_blank&quot; style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif; font-size: 14px; color: rgb(0, 0, 0);&quot;&gt;&lt;img src=&quot;https:\/\/img.irroba.com.br\/basecomm\/catalog\/captura-de-tela-2024-05-02-105114.png &quot; style=&quot;width: 212.938px; height: 62.2742px;&quot;&gt;&lt;\/span&gt;&lt;\/a&gt;&lt;br&gt;&lt;\/p&gt;&lt;p style=&quot;text-align: center; margin-bottom: 0.28cm;&quot;&gt;&lt;a href=&quot;https:\/\/probelle.irroba.com.br\/estetica&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif; font-size: 14px; color: rgb(0, 0, 0);&quot;&gt;As manchas são marcas na pele, podendo ser de tons escuros, claras ou apresentar diferentes colorações, elas são geralmente sem um formato específico e suas principais causas são o excesso de melanina, que pode ocorrer através da alta exposição solar, alteração hormonal, fatores externos como por exemplo uma inflamação pós acne, uso de medicamentos ou predisposição genética. Aqui na Clínica Probelle oferecemos os melhores tratamentos para manchas.&lt;\/span&gt;&lt;br&gt;&lt;\/a&gt;&lt;\/p&gt;&lt;p style=&quot;text-align: center; margin-bottom: 0.28cm;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif; font-size: 14px;&quot;&gt;As manchas são sempre muito incômodas, especialmente nas mulheres.&lt;\/span&gt;&lt;br&gt;&lt;\/p&gt;&lt;p style=&quot;text-align: center; margin-bottom: 0.28cm;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif; font-size: 14px;&quot;&gt;Dependendo de suas características elas podem receber vários nomes, alguns como: melasma, melanoses ou manchas senis, sardas, manchas de acne, efélides, rosácea entre outras.&lt;\/span&gt;&lt;br&gt;&lt;\/p&gt;&lt;p style=&quot;text-align: center; margin-bottom: 0.28cm;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif; font-size: 14px;&quot;&gt;A boa notícia é que hoje existem procedimentos específicos para amenizar essas marcas pigmentadas na pele. Os peelings, tratamentos a laser, luz pulsada ou microagulhamento por exemplo são grandes aliados no tratamento contra as manchas.&lt;\/span&gt;&lt;br&gt;&lt;\/p&gt;&lt;p align=&quot;center&quot; style=&quot;text-align: left; margin-bottom: 0.28cm;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;\/b&gt;&lt;\/span&gt;&lt;\/p&gt;&lt;p align=&quot;center&quot; style=&quot;text-align: left; margin-bottom: 0.28cm;&quot;&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;PROCEDIMENTOS UTILIZADOS&lt;br&gt;&lt;\/span&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;JATO DE PLASMA&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;HOLLYWOOD PEEL (PEELING DAS CELEBRIDADES)&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;LASER VÊNUS (LASER DE BAIXA POTÊNCIA)&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;LASER LAVIEEN&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;LASER FRACIONADO&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;LASER PARA MANCHAS (LUZ INTENSA PULSADA)&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;LASER PARA MANCHAS DE MELASMA PONTEIRA ACROMA&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;LASER TONING&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;SKINBOOSTER&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;LIMPEZA DE PELE&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;PEELING DE DIAMANTE&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;PEELING QUIMICO&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;DERMAPEN&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;LASER DUOLMODE&lt;br&gt;&lt;\/b&gt;&lt;b style=&quot;font-family: &amp;quot;Calibri Light&amp;quot;, serif;&quot;&gt;REVITALIZAÇÃO COM MÁSCARAS E VITAMINAS&lt;\/b&gt;&lt;\/p&gt;&lt;p&gt; &lt;\/p&gt;&lt;p style=&quot;margin-bottom: 0.28cm&quot;&gt;&lt;\/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;\/div&gt; &lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;\/div&gt; &lt;p&gt;&lt;\/p&gt;",
+                    "meta_title": "Manchas",
+                    "meta_description": "",
+                    "meta_keyword": ""
+                }
+            ]
+        },
+        {
+            "category_id": 19,
+            "top": 1,
+            "image": "",
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 18,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2024-01-09 10:34:09",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "categoria2",
+                    "description": "",
+                    "meta_title": "categoria2",
+                    "meta_description": "",
+                    "meta_keyword": ""
+                }
+            ]
+        },
+        {
+            "category_id": 18,
+            "top": 1,
+            "image": "",
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 10,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2024-01-09 10:33:56",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "teste 1 ",
+                    "description": "",
+                    "meta_title": "teste 1 ",
+                    "meta_description": "",
+                    "meta_keyword": ""
+                }
+            ]
+        },
+        {
+            "category_id": 17,
+            "top": 1,
+            "image": "",
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 15,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2023-10-20 11:08:31",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "teste sub 4",
+                    "description": "",
+                    "meta_title": "teste sub 4",
+                    "meta_description": "",
+                    "meta_keyword": ""
+                }
+            ]
+        },
+        {
+            "category_id": 16,
+            "top": 1,
+            "image": "",
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 14,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2023-10-20 11:08:19",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "teste sub 3",
+                    "description": "",
+                    "meta_title": "teste sub 3",
+                    "meta_description": "",
+                    "meta_keyword": ""
+                }
+            ]
+        },
+        {
+            "category_id": 15,
+            "top": 1,
+            "image": "",
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 0,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2023-10-20 11:07:53",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "Categoria 4",
+                    "description": "",
+                    "meta_title": "Categoria 4",
+                    "meta_description": "",
+                    "meta_keyword": ""
+                }
+            ]
+        },
+        {
+            "category_id": 14,
+            "top": 1,
+            "image": "",
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 0,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2023-10-20 11:07:26",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "Categoria 3",
+                    "description": "",
+                    "meta_title": "Categoria 3",
+                    "meta_description": "",
+                    "meta_keyword": ""
+                }
+            ]
+        },
+        {
+            "category_id": 13,
+            "top": 1,
+            "image": "",
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 10,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2023-10-20 10:59:08",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "Teste subcategoria",
+                    "description": "",
+                    "meta_title": "Teste subcategoria",
+                    "meta_description": "",
+                    "meta_keyword": ""
+                }
+            ]
+        },
+        {
+            "category_id": 12,
+            "top": 1,
+            "image": "",
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 8,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2023-10-20 10:51:19",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "Cano baixo",
+                    "description": "",
+                    "meta_title": "Cano baixo",
+                    "meta_description": "",
+                    "meta_keyword": ""
+                }
+            ]
+        },
+        {
+            "category_id": 10,
+            "top": 1,
+            "image": "",
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 0,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2023-08-22 16:21:13",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "Teste",
+                    "description": "",
+                    "meta_title": "TESTE MAYKON",
+                    "meta_description": "",
+                    "meta_keyword": ""
+                }
+            ]
+        },
+        {
+            "category_id": 9,
+            "top": 1,
+            "image": "",
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 8,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2022-08-30 15:09:16",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "Botas Femininas",
+                    "description": "",
+                    "meta_title": "Botas Femininas",
+                    "meta_description": "",
+                    "meta_keyword": ""
+                }
+            ]
+        },
+        {
+            "category_id": 8,
+            "top": 1,
+            "image": "",
+            "image_icon": "",
+            "reference": "0",
+            "parent_id": 0,
+            "parent_id_reference": "0",
+            "sort_order": 0,
+            "status": 1,
+            "date_added": "2022-08-30 15:07:40",
+            "category_description": [
+                {
+                    "language_id": 2,
+                    "name": "Botas",
+                    "description": "&lt;p&gt;Teste descrição&lt;\/p&gt;",
+                    "meta_title": "Botas Femininas de Couro",
+                    "meta_description": "Botas femininas de couro com 10% de desconto e frete grátis para todo o Brasil.",
+                    "meta_keyword": ""
+                }
+            ]
+        }
+    ]
+}
